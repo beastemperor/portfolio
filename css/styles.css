@@ -1,0 +1,77 @@
+body{
+    background-color: #222831;
+    color: #eeeeee;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: 300;
+    line-height: 1.65;
+    font-size: 1rem;
+}
+
+h2{
+    border-bottom: solid 2px  #222831;
+    font-size: 2.25em;
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    margin: 0 0 1em 0;
+    text-transform: uppercase;
+    margin-bottom: 0.8em;
+    padding-bottom: 0.4em;
+}
+
+#banner {
+    padding: 10em 0 4.75em 0;
+    padding-top: 10em;
+    padding-right: 0px;
+    padding-bottom: 4.75em;
+    padding-left: 0px;
+}
+
+#banner p{
+    font-family: Raleway, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: 200;
+    letter-spacing: 0.1em;
+    line-height: 2;
+}
+
+#banner .inner {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    max-width: 55em;
+}
+
+.jumbotron{
+    color: #222831;
+    background-color: #eeeeee;
+    padding: 1rem 0.5rem;
+    margin-bottom: 0;
+    border-radius: 0;
+    box-shadow: 0 .5rem .5rem rgba(0, 0, 0, .1);
+    font-size: 2rem;
+    margin: 0 1rem;
+}
+
+ul.social{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0 auto;
+}
+
+ul.social li{
+    margin: 0 auto;
+}
+i:hover{
+    color: #ffd369 !important;
+}
+
+
+.top-section{
+    text-align: left !important;
+    color: #222831;
+    background-color: #eeeeee;
+}
